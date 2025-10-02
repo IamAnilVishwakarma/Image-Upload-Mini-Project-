@@ -12,7 +12,7 @@ Organized Uploaded Gallery section
 
 Responsive design with modern styling
 
-Built with HTML, CSS, JavaScript (and your backend if applicable, e.g., Java/Spring Boot, Node.js, PHP, etc.)
+Built with HTML, CSS, JavaScript (and your backend if applicable, Java/Spring Boot, JWT, OTP Base Authentication Node.js)
 
 🖼️ Screenshots
 
