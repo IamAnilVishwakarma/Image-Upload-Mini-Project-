@@ -12,7 +12,7 @@ Organized Uploaded Gallery section
 
 Responsive design with modern styling
 
-Built with HTML, CSS, JavaScript (and your backend if applicable, Java/Spring Boot, JWT, OTP Base Authentication Node.js)
+Built with HTML, CSS, JavaScript (and your backend if applicable, Java/Spring Boot, JWT, OTP Base Authentication, Node.js)
 
 🖼️ Screenshots
 
@@ -22,7 +22,7 @@ Simple and clean image upload interface with gallery view
 
 Frontend: HTML
 
-Backend: (Add your backend here, e.g., Spring Boot)
+Backend: (Add your backend here, Spring Boot)
 
 Database/Storage: (Local storage, MySQL)
 
